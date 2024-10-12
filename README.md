@@ -12,5 +12,5 @@
 
 ##***Architecture Decision Record***
 
--[Programing language](https://github.com/PawelWylegala/Home-Library/blob/main/ADR/Język%20programowania.md)
--[Tool for management](https://github.com/PawelWylegala/Home-Library/blob/main/ADR/Narzędzie%20do%20zarządzania.md)
+- [Programing language](https://github.com/PawelWylegala/Home-Library/blob/main/ADR/Język%20programowania.md)
+- [Tool for management](https://github.com/PawelWylegala/Home-Library/blob/main/ADR/Narzędzie%20do%20zarządzania.md)
